@@ -3,6 +3,10 @@ h1, h2, p, .lagosta {
     font-family: 'Lagosta';
 }
 
+h2, #color {
+    color: #fff;
+}
+
 p {
     font-size: 17px;
 }
